@@ -23,7 +23,8 @@ POSSÍVEIS MELHORAMENTOS para o aplicativo são:
  - Criação de uma dashboard para que o usuário percorra entre a home e a tela de leaderboards
  - Infinito, quanto você quer melhorar esse aplicativo.
 
-1-) Para executar esse projeto na sua máquina, você vai na aba botão verde no canto direito do projeto e copia o link em HTTP
-2-) Abre um terminal git e digite o comando `git clone url_do_repositório`
-3-) Você pode dar um `code` . para abrir o VSCode na pasta do seu repositório e dar um `yarn` ou `npm install`, pois as dependências já estão configuradas para serem instaladas.
+0-) Para fazer os seguintes passos, você deve ter instalado Yarn, Node.js instalado na sua máquina.<br />
+1-) Para executar esse projeto na sua máquina, você vai na aba botão verde no canto direito do projeto e copia o link em HTTP<br />
+2-) Abre um terminal git e digite o comando `git clone url_do_repositório`<br />
+3-) Você pode dar um `code` . para abrir o VSCode na pasta do seu repositório e dar um `yarn` ou `npm install`, pois as dependências já estão configuradas para serem instaladas.<br />
 4-) Você digite o comando `yarn dev` para executar o projeto
