@@ -23,6 +23,8 @@ POSSÍVEIS MELHORAMENTOS para o aplicativo são:
  - Criação de uma dashboard para que o usuário percorra entre a home e a tela de leaderboards
  - Infinito, quanto você quer melhorar esse aplicativo.
 
+COMO EXECUTAR ESSE CÓDIGO NA SUA MÁQUINA
+
 0-) Para fazer os seguintes passos, você deve ter instalado Yarn e Node.js instalado na sua máquina.<br />
 1-) Para executar esse projeto na sua máquina, você vai na aba botão verde no canto direito do projeto e copia o link em HTTP<br />
 2-) Abre um terminal git e digite o comando `git clone url_do_repositório`<br />
