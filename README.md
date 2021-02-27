@@ -1,6 +1,7 @@
 # moveit
 
 Esse foi um aplicativo desenvolvido na NLW4(22/02/2021 até 27/02/2021) da Rocketseat, o qual o intuito desse App é do desenvolvedor, outro profissional que fica muito tempo sentado, fazer um trabalho focado de 25 minutos e ter uma pausa de 5 minutos. Durante essa pausa, ele faria algum alongamento ou uma caminhada para não esquecer da saúde. E Nisso, também adicionou uma gamificação, cada desafio que é feito, ganha-se experiência.
+O interessante dele é uso do framework Next.js para o aplicativo ser SSD em vez de apenas SPA.
 
 IMAGENS:
 
